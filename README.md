@@ -26,5 +26,5 @@ This repository contains my coursework for Natural Language Processing (NLP), in
 - `NLP Assignment 2.ipynb`
 - `NLP Assignment 2 report.pdf`
 
-## Author
-Salma Charaf Megrini
+## Authors
+Salma Charaf Megrini, Ilinca Sandu, Marcjanna Handke and Helena Valk
