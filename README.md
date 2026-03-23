@@ -3,34 +3,28 @@
 ## Description
 This repository contains my coursework for Natural Language Processing (NLP), including multiple assignments focused on text analysis techniques.
 
----
-
 ## Assignment 1
 **Final - Mandatory Assignment 1**
 
-- Implemented NLP techniques using Python
-- Explored text processing and analysis
-
----
+- Notebook: [Open Assignment 1 Notebook](./Final%20-%20Mandatory%20Assignment%201.ipynb)
+- Focus: text processing, NLP methods, and analysis
 
 ## Assignment 2
 **NLP Assignment 2**
 
-- Notebook: `NLP Assignment 2.ipynb`
-- Report: `NLP Assignment 2 report.pdf`
-
-Focus:
-- Text analysis
-- NLP methods and evaluation
-
----
+- Notebook: [Open Assignment 2 Notebook](./NLP%20Assignment%202.ipynb)
+- Report: [Read Assignment 2 Report](./NLP%20Assignment%202%20report.pdf)
+- Focus: text analysis, NLP techniques, and evaluation
 
 ## Tools Used
 - Python
 - Jupyter Notebook
-- NLP libraries
+- Natural Language Processing techniques
 
----
+## Repository Structure
+- `NLP Assignment 1.ipynb`
+- `NLP Assignment 2.ipynb`
+- `NLP Assignment 2 report.pdf`
 
 ## Author
 Salma Charaf Megrini
